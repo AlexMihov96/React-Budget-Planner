@@ -1,0 +1,58 @@
+/*General overriding*/
+body {
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+
+.nav a {
+    color: #ffffff;
+}
+
+.nav a:hover {
+    -webkit-box-shadow: inset 0px 0px 0px 3px #ffffff;
+    -moz-box-shadow: inset 0px 0px 0px 3px #ffffff;
+    box-shadow: inset 0px 0px 0px 3px #ffffff;
+}
+
+/*Bootstrap overriding*/
+.container-fluid {
+    padding: 0;
+}
+
+/*Custom classes*/
+
+.wrapper {
+    box-shadow: 0px 0px 1px 1px #0C7BFE;
+    background: rgba(255, 255, 255, 0.60);
+    border-radius: 30px;
+    padding: 10px 20px 20px 20px;
+    margin-top: 20px;
+    margin-bottom: 60px;
+}
+
+.text-format {
+    font-size: 1em;
+    color: #6f6f6f;
+    font-family: "Yu Gothic UI Semibold";
+}
+
+.text-format-large {
+    font-size: 2em;
+    color: #6f6f6f;
+    font-family: "Yu Gothic UI Semibold";
+}
+
+.footer {
+    background: #007BFF;
+    padding: 8px;
+    color: #ffffff;
+    text-align: center;
+    bottom: 0px;
+    position: fixed;
+    width: 100%;
+}
+
+.margin-top-10 {
+    margin-top: 10px;
+}
