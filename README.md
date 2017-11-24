@@ -1,2 +1,2 @@
 # React-Budget-Planner
-Final exam of my react course from Software-University
+Final 6 hours exam of my react course from [Software-University](https://softuni.bg/)
